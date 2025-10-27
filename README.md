@@ -38,7 +38,7 @@ I used ChatGPT and Claude to help:
 
 
 ## Screenshots
-(Include screenshots here after you run the app.)
+![Effects of taking breaks](images/focus-tax-ss.png)
 
 ## Future Improvements
 - Use an API from a real retailer such as Best Buy or Amazon
